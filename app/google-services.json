@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "194575736321",
+    "firebase_url": "https://mylolhelper.firebaseio.com",
+    "project_id": "mylolhelper",
+    "storage_bucket": "mylolhelper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194575736321:android:88613a020d32a672",
+        "android_client_info": {
+          "package_name": "com.example.cristianverdes.mylolhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194575736321-4clbp0si68ve2bbf3cmikh3a9al3e6kb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cristianverdes.mylolhelper",
+            "certificate_hash": "e6c63c54bc1deccc328e3b2b99e5ce4ecb4825bb"
+          }
+        },
+        {
+          "client_id": "194575736321-q0bkvq9pcp5lfrtekj43edb564mi82pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-H-ulnoOaYtYSYqyx7KAAV5jUX_46mWM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194575736321-q0bkvq9pcp5lfrtekj43edb564mi82pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194575736321:android:824093a626ac1029",
+        "android_client_info": {
+          "package_name": "com.example.cristianverdes.mylolhelper.live"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194575736321-e05q405tg425vnha8tkl8bdpfhoko43i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cristianverdes.mylolhelper.live",
+            "certificate_hash": "4b6517ee48be31a5d13b184eebb6cec446e89060"
+          }
+        },
+        {
+          "client_id": "194575736321-q0bkvq9pcp5lfrtekj43edb564mi82pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-H-ulnoOaYtYSYqyx7KAAV5jUX_46mWM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194575736321-q0bkvq9pcp5lfrtekj43edb564mi82pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
