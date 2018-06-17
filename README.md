@@ -1,6 +1,7 @@
 # udacity-capstone-graduation-app
 
 MyLoLHelper - Fifth and final project from the Android Developer Nanodegree program
+
 Documentation: https://drive.google.com/open?id=1nyGsglOzRSS9CfHc2P6tNV4k6--J1lBH
 
 # Notes
